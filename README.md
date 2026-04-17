@@ -1,3 +1,12 @@
+Writing PWA
+===========
+
+Converted to PWA by smoufa and updated from the original project (MIT-licensed, see LICENSE for details)
+
+Copyright (c) 2026 smoufa
+
+Original README:
+
 Writing
 =======
 
@@ -67,5 +76,3 @@ Dependencies
 **Writing** uses [Pagedown](https://code.google.com/archive/p/pagedown/), [Pagedown Extra](https://github.com/jmcmanus/pagedown-extra), [MathJax](https://www.mathjax.org/), StackOverflow's [editor code](https://gist.github.com/gdalgas/a652bce3a173ddc59f66), and the [Computer Modern](http://cm-unicode.sourceforge.net/) font.
 
 *Note: Some of these libraries have been slightly modified (a few lines of code), to make it work all together, that's why they are included in this package.*
-
-![](https://gget.it/pixel/writing.png)
